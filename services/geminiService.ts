@@ -7,7 +7,7 @@ import { GoogleGenAI, GenerateContentResponse, Modality, Type } from "@google/ge
 
 // In a production environment, it is strongly recommended to use an environment
 // variable for the API key rather than hardcoding it.
-const API_KEY = "AIzaSyBkWDh4jHSwWLO43OOTd-Uw0WBQYP7mVws";
+const API_KEY = "AIzaSyDK0RQ0I8tivTIhutEb20zHh-M5OBnknHE";
 const ai = new GoogleGenAI({ apiKey: API_KEY });
 
 
